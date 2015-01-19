@@ -13,18 +13,25 @@ This course will develop more advanced programming concepts including continued 
 Prerequisite: CSCI 156
 ####TEXTBOOK :
 Python 3 Object Oriented Programming, Dusty Phillips
-
+<br>
 Tkinter GUI Application Development HOTSHOT
 ####INSTRUCTOR EXPECTATIONS: 
 We will have a fun semester learning about computing.
 ####GRADING POLICY:  
 Your grade will be computed using the breakdown:
+<br>
 Tests                                40%
+<br>
 Github Projects                35%
+<br>
 Final Project                    10%
+<br>
 Final Exam                      15%
+<br>
 Your letter grade in the course is assigned as follows:
+<br>
 A>93,A->90,B+>87,B>83,B->80,C+>77,C>73,C->70,D+>68, D >= 65, F < 65.
+<br>
 Typically the 65 is hard and fast: that means you shouldn’t count on a 64 as passing.
 ####HOMEWORK: 
 Lots of programming assignments posted on Github.
