@@ -5,7 +5,9 @@ Darwyn Cook  Myers 109F                    871 – 2819                         
 
 Email is the best way to get in touch with me; I check it FREQUENTLY during the day.
 ####OFFICE HOURS: 
-1:20 – 2:10 MTWF. 
+1:20 – 2:10 MTF
+<br>
+11:20 - 12:10 W
 <br>
 Office hours are a time when I am guaranteeing I will be in my office and available for help. Please come and see me outside of class if you need help. In addition to my office hours, group tutoring and private tutoring is available. The private tutors are from special academic services in Crandall Hall, contact Beth Niles at 871-2148.
 ####COURSE DESCRIPTION: 
