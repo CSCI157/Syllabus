@@ -1,5 +1,5 @@
 #CSCI 157 – Computer Science II
-##Myers 107  3:20 – 4:45 MTW
+##Myers 107  3:20 – 4:35 MTW
 ####CONTACT INFORMATION:
 Darwyn Cook  Myers 109F                    871 – 2819                             cook@alfred.edu 
 
